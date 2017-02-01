@@ -7,8 +7,8 @@ namespace ExempleGIT
 
         static void Main(string[] args)
         {
-            // fgasdfasdkfjagdkhfgdjkgfsdhgfasdhgfahksdgfkahgdsfjk
-                System.Console.WriteLine("Hi");
+            // Voici un Commentaire
+                System.Console.WriteLine("Bonjour Simon");
         }
     }
 }
